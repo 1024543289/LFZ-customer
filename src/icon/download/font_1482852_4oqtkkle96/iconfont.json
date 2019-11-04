@@ -1,0 +1,37 @@
+{
+  "id": "1482852",
+  "name": "Ej-customer",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2432610",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "2462143",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "7093121",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "10243850",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    }
+  ]
+}
